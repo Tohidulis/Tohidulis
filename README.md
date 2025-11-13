@@ -2,18 +2,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 ### Hi there, I'm Md Tohidul Islam 👋  
+- 🔭 ## Hi there, I'm Md Tohidul Islam 👋  
 **Business Analyst | AI Enthusiast**
 
 ---
 
 - 🔭 I’m currently working on **data-driven business intelligence projects** — transforming business challenges into actionable insights using Python, SQL, and AI automation.  
-- 🌱 I’m currently learning **Machine Learning, Generative AI (LLMs), and Cloud Analytics (AWS / Azure)**.  
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI (LLMs), and Cloud Analytics (AWS / Azure)**.  
 - 👯 I’m looking to collaborate on **AI-powered business solutions**, **data visualization dashboards**, and **open-source analytics tools**.  
 - 🤔 I’m looking for help with **deploying ML models and building scalable AI pipelines**.  
 - 💬 Ask me about **data analysis, storytelling with dashboards, process optimization, and using AI for business decision-making**.  
-- 📫 How to reach me: **[your email or LinkedIn link]**  
-- 😄 Pronouns: **She/Her**  
+- 📫 How to reach me: **[anaizatohid@gmail.com]**  
+- 😄 Pronouns: **He/His**  
 - ⚡ Fun fact: I can find insights in messy data faster than I can find matching socks 🧦😂  
 
 ---
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](your-linkedin-url) • [GitHub](your-github-url) • [Kaggle](your-kaggle-url) • [Portfolio](your-portfolio-url)
+[LinkedIn](www.linkedin.com/in/md-tohidul-islam-a52242334/) • [GitHub](https://github.com/Tohidulis) • [Kaggle](kaggle.com/MdTohidulIslam99) •
 
 
 Thank you
