@@ -1,17 +1,35 @@
-## Hi there 👋
-
-
 **Tohidulis/Tohidulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 ### Hi there, I'm Md Tohidul Islam 👋  
+**Business Analyst | AI Enthusiast**
+
+---
+
+- 🔭 I’m currently working on **data-driven business intelligence projects** — transforming business challenges into actionable insights using Python, SQL, and AI automation.  
+- 🌱 I’m currently learning **Machine Learning, Generative AI (LLMs), and Cloud Analytics (AWS / Azure)**.  
+- 👯 I’m looking to collaborate on **AI-powered business solutions**, **data visualization dashboards**, and **open-source analytics tools**.  
+- 🤔 I’m looking for help with **deploying ML models and building scalable AI pipelines**.  
+- 💬 Ask me about **data analysis, storytelling with dashboards, process optimization, and using AI for business decision-making**.  
+- 📫 How to reach me: **[your email or LinkedIn link]**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I can find insights in messy data faster than I can find matching socks 🧦😂  
+
+---
+
+### 🧩 **Tech & Tools I Use**
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Power BI` | `SQL` | `Excel` | `Scikit-learn` | `Jupyter` | `AI APIs`
+
+---
+
+### 📊 **What Drives Me**
+> "I believe data isn’t just numbers — it’s a language that reveals patterns, stories, and opportunities for smarter business decisions."
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](your-linkedin-url) • [GitHub](your-github-url) • [Kaggle](your-kaggle-url) • [Portfolio](your-portfolio-url)
+
 
 Thank you
